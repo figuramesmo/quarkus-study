@@ -23,3 +23,5 @@ Install on your PC:
 - [Richardson maturity model]()
 - [RFC 7807: Problem details for HTTP APIs](https://datatracker.ietf.org/doc/html/rfc7807)
 - [Creating blogs with Quarkus](https://github.com/quarkiverse/quarkus-roq)
+- [BOLOVO Architecture](https://medium.com/codigorefinado/bolovo-voc%C3%AA-conhece-esse-modelo-de-arquitetura-de-software-1590c778f394)
+- [All quarkus configs](https://pt.quarkus.io/guides/all-config)
